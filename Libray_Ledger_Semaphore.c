@@ -1,4 +1,3 @@
-
 // Library ledger maintenance using semaphore
 
 #include<stdio.h>
